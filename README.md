@@ -1,1 +1,1 @@
-# CMS-BLOG-django
+# CMS-BLOG-DJANGO
